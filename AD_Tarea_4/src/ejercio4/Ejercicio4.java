@@ -8,7 +8,12 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+/**
+ * Esta clase contiene el main del programa, crea y gestiona alumnos.
+ * 
+ * @author Guillermo
+ * @see Alumno
+ */
 public class Ejercicio4 {
 
 	public static void main(String[] args) {

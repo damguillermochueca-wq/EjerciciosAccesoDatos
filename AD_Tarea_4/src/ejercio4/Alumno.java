@@ -1,7 +1,13 @@
 package ejercio4;
 
 import java.time.LocalDate;
-
+/**
+ * Esta clase define lo que sera el objeto alumno,
+ * asi como sus metodos y constructores.
+ * 
+ * @author Guillermo
+ */
+ 
 public class Alumno {
 	private int Nia;
 	private String nombre, apellidos, ciclo, curso, grupo;
